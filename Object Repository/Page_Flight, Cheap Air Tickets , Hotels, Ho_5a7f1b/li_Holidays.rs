@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Holidays</name>
+   <tag></tag>
+   <elementGuidId>9eb7fe45-1419-4019-b44e-570fa93333ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bEnginePos']/ul/li[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5ea90054-baa2-44f0-9a7b-d81fa9a28aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Holidays </value>
+      <webElementGuid>0c002b29-c967-4a22-ac38-0dfc9bd4c4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bEnginePos&quot;)/ul[@class=&quot;be-tabs-snipe clearfix&quot;]/li[5]</value>
+      <webElementGuid>91e62c24-a525-42f9-8c71-bd4165ef1275</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bEnginePos']/ul/li[5]</value>
+      <webElementGuid>6004faad-7603-4b57-8d2a-a25751cb2931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW'])[4]/following::li[1]</value>
+      <webElementGuid>e53454c1-61eb-4597-a63f-fd6765783a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buses'])[2]/following::li[1]</value>
+      <webElementGuid>ebb92eab-aee0-451a-a7d8-b848e6216810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visa'])[1]/preceding::li[1]</value>
+      <webElementGuid>5e2c2de7-9638-4556-82af-6d00739010ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/ul/li[5]</value>
+      <webElementGuid>68ea201d-0067-4c49-aabc-92672392aa7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Holidays ' or . = ' Holidays ')]</value>
+      <webElementGuid>66568b80-9593-49de-af1a-879520ce58eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

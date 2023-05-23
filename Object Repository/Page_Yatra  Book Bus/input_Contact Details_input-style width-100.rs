@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Contact Details_input-style width-100</name>
+   <tag></tag>
+   <elementGuidId>893d3f15-87a3-4696-a685-eb33041346e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.input-style.width-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='email'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9a76f3e1-4805-4f32-9814-5840310b3baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>91aa531f-d2ee-4d64-89ae-618339f1f743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Email Id</value>
+      <webElementGuid>61873d10-6892-46e5-8eeb-c06b8b0bfb19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-style width-100</value>
+      <webElementGuid>f82f419b-420a-4cd6-abb3-29c915ff6c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;busDesktop&quot;)/div[1]/div[@class=&quot;yatra-review wrapper wrapperwidth&quot;]/section[@class=&quot;fl left-sec&quot;]/div[@class=&quot;flex module-box&quot;]/div[@class=&quot;layout row wrap&quot;]/div[@class=&quot;flex xs10&quot;]/div[@class=&quot;layout layout row wrap travel prel&quot;]/div[@class=&quot;flex xs5&quot;]/div[@class=&quot;layout row wrap&quot;]/p[@class=&quot;width-92 prel&quot;]/input[@class=&quot;input-style width-100&quot;]</value>
+      <webElementGuid>daed6f58-779f-41b2-a2d3-36a0b191f890</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='email'])[2]</value>
+      <webElementGuid>1931e085-6828-4344-8e06-b8ca97bd3d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='busDesktop']/div/div[2]/section/div[4]/div/div[2]/div/div/div/p/input</value>
+      <webElementGuid>8108455d-d4b2-417f-a684-b82a63788867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/input</value>
+      <webElementGuid>61e7fb33-fbdb-4d11-8355-564ddec59b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'email' and @placeholder = 'Email Id']</value>
+      <webElementGuid>ced161ed-49bc-4af6-b5db-c672c8f0e2c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

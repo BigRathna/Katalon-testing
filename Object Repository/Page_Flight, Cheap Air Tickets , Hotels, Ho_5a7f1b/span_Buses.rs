@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Buses</name>
+   <tag></tag>
+   <elementGuidId>057efb47-fad5-48b7-9012-b05e525eb4f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#booking_engine_buses > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='booking_engine_buses']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06560b7b-296f-4860-9393-142c35192181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buses</value>
+      <webElementGuid>ebe27366-596c-47b2-bd91-ae682accf267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking_engine_buses&quot;)/span[1]</value>
+      <webElementGuid>043e92a8-edf6-47e1-be17-230f045c999b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='booking_engine_buses']/span</value>
+      <webElementGuid>e795777e-0a52-4ad0-9b85-a11392238435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Villas &amp; Stays'])[1]/following::span[2]</value>
+      <webElementGuid>8af229c6-ce32-42ec-aa3e-dc021cf1764d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotels'])[2]/following::span[4]</value>
+      <webElementGuid>bb694f6e-f97a-4316-b4e2-2a4181dd7a04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW'])[4]/preceding::span[1]</value>
+      <webElementGuid>574820d1-bedc-4339-9c5b-f07ba46d1c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Holidays'])[2]/preceding::span[2]</value>
+      <webElementGuid>747f65cd-971c-47dc-aa3b-703cd7982d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>72f13a91-6ad0-4a01-bf58-a63dd0378c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Buses' or . = 'Buses')]</value>
+      <webElementGuid>19b0c13a-a056-43da-a8ca-21bed8eb8b5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Starting From  Rs.  4,373</name>
+   <tag></tag>
+   <elementGuidId>f98951cc-42f6-4e56-80f9-b3ddc2a0454d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.low_price</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='themeSnipe']/section/div[2]/div/div/div/div/div/div/a/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f64c6a7d-eef6-43bd-b35d-18c53ad7dec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>low_price</value>
+      <webElementGuid>8da9d556-b032-4227-bbdf-8acd43faa245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Starting From  Rs.  4,373
+            </value>
+      <webElementGuid>ee141b71-b0c3-40e2-86e2-173e42822eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;themeSnipe&quot;)/section[@class=&quot;wrapper&quot;]/div[@class=&quot;right_data&quot;]/div[@class=&quot;popular_destination popular-destination-module carousalModuleArea&quot;]/div[@class=&quot;popular_cities&quot;]/div[@class=&quot;ytCarousel&quot;]/div[@class=&quot;VueCarousel&quot;]/div[@class=&quot;VueCarousel-wrapper&quot;]/div[@class=&quot;VueCarousel-inner&quot;]/a[@class=&quot;VueCarousel-slide items&quot;]/div[@class=&quot;price_go dest&quot;]/p[@class=&quot;low_price&quot;]</value>
+      <webElementGuid>dfb0b4d1-b4aa-469a-94d5-6978822ed730</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='themeSnipe']/section/div[2]/div/div/div/div/div/div/a/div[2]/p</value>
+      <webElementGuid>80fe9fe8-a1b4-403c-a789-ccb02c3759f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mumbai'])[1]/following::p[1]</value>
+      <webElementGuid>485e33da-98e3-4c6c-939a-15119f96a7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon, 20 Jun'])[1]/following::p[1]</value>
+      <webElementGuid>6569333a-a1f1-430f-99b3-58e44c8d050f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4,373']/parent::*</value>
+      <webElementGuid>dd68ac57-0ffb-4b7b-8d80-f91fbcfd34e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>69708785-bb4b-4604-8942-04d28b056013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Starting From  Rs.  4,373
+            ' or . = 'Starting From  Rs.  4,373
+            ')]</value>
+      <webElementGuid>f6a0f0ee-2c0e-4e48-9e5d-5b14cbaae55e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

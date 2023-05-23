@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Full Utilization of vouchers with multire_ea606a</name>
+   <tag></tag>
+   <elementGuidId>3bb24676-a942-4562-a45d-99a8efed21f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='collapsibleSection']/section[2]/div/div[2]/div/ul/li[2]/div[3]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>00b33727-93f0-467a-a295-d18030a5e434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gap</value>
+      <webElementGuid>6761e63b-90b5-4f68-913c-3448f42f503a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Full Utilization of vouchers with multiredemable feature </value>
+      <webElementGuid>9381e000-258d-42e4-b5a3-60774f1d3a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapsibleSection&quot;)/section[@class=&quot;fluid-section fluid-full-width&quot;]/div[@class=&quot;link-wrapper&quot;]/div[@class=&quot;full&quot;]/div[@class=&quot;bene main_container&quot;]/ul[1]/li[@class=&quot;dflex centre media-touple&quot;]/div[@class=&quot;touple shadow&quot;]/p[@class=&quot;gap&quot;]</value>
+      <webElementGuid>3211f0c7-3aec-4516-8bc2-5d82aefb0372</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='collapsibleSection']/section[2]/div/div[2]/div/ul/li[2]/div[3]/p</value>
+      <webElementGuid>724858c7-4d03-4bae-bcf2-d008650a3956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utilization'])[1]/following::p[1]</value>
+      <webElementGuid>9418236b-6b12-421a-ba58-60205b98d1a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Club Together'])[1]/following::p[2]</value>
+      <webElementGuid>2f986945-faaf-4293-af6a-3b01f1ad882a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[3]</value>
+      <webElementGuid>c1de9729-69af-4115-a0f2-e801f1b51230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Full Utilization of vouchers with multiredemable feature']/parent::*</value>
+      <webElementGuid>3d3871e8-adc3-40bd-b042-a94b2b8a5d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[3]/p</value>
+      <webElementGuid>18ead867-9479-4665-a608-673e972cb8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Full Utilization of vouchers with multiredemable feature ' or . = ' Full Utilization of vouchers with multiredemable feature ')]</value>
+      <webElementGuid>58209ca3-c9eb-4822-8c96-562e2b38038c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

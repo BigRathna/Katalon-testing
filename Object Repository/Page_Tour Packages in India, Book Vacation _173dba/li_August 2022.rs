@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_August 2022</name>
+   <tag></tag>
+   <elementGuidId>fafea56a-a3e6-4823-afb1-5cfc9405d165</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BE_holiday_destination_details']/div/div/div/div[2]/div/div/ul/li[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7574f77b-7791-4c15-8a6e-67d0c5a8c891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enabled _msddli_</value>
+      <webElementGuid>3f738ec4-a3d8-4210-8844-adf1929c6b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>August 2022 </value>
+      <webElementGuid>396ce411-c610-44e9-a0e6-2d2c8f19a0b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BE_holiday_destination_details&quot;)/div[@class=&quot;oneway-roundtrip&quot;]/div[@class=&quot;select-with-bg holi_passengerBox flexB100&quot;]/div[@class=&quot;dd ddcommon borderRadius holi_passengerBox search-height b-btm&quot;]/div[@class=&quot;ddChild ddchild_ border shadow holi_passengerBox&quot;]/div[@class=&quot;viewport&quot;]/div[@class=&quot;overview&quot;]/ul[1]/li[@class=&quot;enabled _msddli_&quot;]</value>
+      <webElementGuid>98030fcf-5d3a-436e-8bbb-5b44c3ca48fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BE_holiday_destination_details']/div/div/div/div[2]/div/div/ul/li[6]</value>
+      <webElementGuid>0ec4397e-2052-4ffa-b1df-ed51a66a2c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July 2022'])[1]/following::li[1]</value>
+      <webElementGuid>5a393c14-404b-4842-ac68-07f25654759f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2022'])[1]/following::li[2]</value>
+      <webElementGuid>0a47444a-788a-4f59-a065-b5b77ecf1bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 2022'])[1]/preceding::li[1]</value>
+      <webElementGuid>d78d3443-4079-4ea7-a8b8-933a44f7697c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[6]</value>
+      <webElementGuid>a419bc06-85ac-44ff-9550-c8277b0cfd37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'August 2022 ' or . = 'August 2022 ')]</value>
+      <webElementGuid>24254cb8-e2ae-49ff-ab69-6d709348e263</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

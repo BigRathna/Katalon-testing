@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_PROCEED</name>
+   <tag></tag>
+   <elementGuidId>daf54486-9549-4e4a-82b5-60b0406151ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-raised-button.mat-button-base.mat-primary.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5d6b7b7-3d3e-4916-9d75-951624ca4fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>6c38ad31-b615-47ca-b900-87d60dcf6078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-raised-button mat-button-base mat-primary cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>02d3284f-2ba8-4fff-942b-e6c14c8a8151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PROCEED</value>
+      <webElementGuid>f372f11a-0585-444f-9de1-81bd4cf20a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/div[@class=&quot;app-container full-width&quot;]/div[@class=&quot;main-content&quot;]/app-landing[1]/div[@class=&quot;landing&quot;]/div[@class=&quot;content&quot;]/div[1]/core-page-divs[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex-1-3 landing-main ng-star-inserted&quot;]/div[@class=&quot;landing-left-cont ng-star-inserted&quot;]/div[@class=&quot;flex-row page-div widgets ng-star-inserted&quot;]/div[@class=&quot;widget ng-star-inserted&quot;]/div[1]/div[@class=&quot;widget-body&quot;]/landing-widgets-selector[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/div[@class=&quot;sections ng-star-inserted&quot;]/landing-quote[1]/div[@class=&quot;flex-row centered&quot;]/div[@class=&quot;middle rfqDiv&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator inline fixMarginTop quote-request-form&quot;]/dff-guest-inquery[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;controls-row&quot;]/button[@class=&quot;mat-focus-indicator mat-raised-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>f1230d99-668e-4547-be63-ebbdf3159d4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/following::button[1]</value>
+      <webElementGuid>398f239a-cc2c-4953-b4f7-183b029c0815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description of goods'])[1]/following::button[1]</value>
+      <webElementGuid>59eeff87-1f10-43b0-b21b-0fb5d994b24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Full Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>b165704f-85a8-4180-a01b-dab61766f743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>9b0a4525-630e-4c13-9e88-03835303bf80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'PROCEED' or . = 'PROCEED')]</value>
+      <webElementGuid>16d98cbd-6302-47b7-9af5-cbfe06297631</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

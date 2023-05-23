@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Hotels</name>
+   <tag></tag>
+   <elementGuidId>99e5832f-5b1b-4f63-946f-4ace6bc72981</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bEnginePos']/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>213d8f4e-334d-4406-a473-79ffb6134226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hotels </value>
+      <webElementGuid>c2b8e6ea-4dc1-4372-be76-5205c007eacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bEnginePos&quot;)/ul[@class=&quot;be-tabs-snipe clearfix&quot;]/li[2]</value>
+      <webElementGuid>ff48b90d-144e-4ed4-95f4-05e700ff9ee3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bEnginePos']/ul/li[2]</value>
+      <webElementGuid>3da6346b-bcb4-4e42-8f69-c3b925e9b39d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flights'])[2]/following::li[1]</value>
+      <webElementGuid>20bf9eb4-bf59-4c83-baef-df3d0e8c231a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yatra for Business'])[2]/following::li[2]</value>
+      <webElementGuid>8c0b44dd-4d31-4a1a-830a-12b4b545bae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Villas &amp; Stays'])[1]/preceding::li[1]</value>
+      <webElementGuid>ae784ee3-47cc-4354-91ad-8aeba1070bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/ul/li[2]</value>
+      <webElementGuid>5b697018-3338-499b-bdd9-72d228fac973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Hotels ' or . = ' Hotels ')]</value>
+      <webElementGuid>8962c909-b12d-4eed-870d-ba4358c815c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

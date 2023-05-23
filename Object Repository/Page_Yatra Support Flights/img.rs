@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>6de07946-737f-479c-93ef-398302540dc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Self Drive&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='collapsibleSection']/section/div/div[2]/div/ul/li[8]/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2e87fbc3-64c8-4024-b048-603cc4d564a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.yatra.com/fresco/resources/beetle/images/faq-contact-us/self drive.png</value>
+      <webElementGuid>b916056c-4df1-45f8-80e8-1e2696e7688b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Self Drive</value>
+      <webElementGuid>3b5f3641-ffa5-498f-ba44-91269ffd54d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapsibleSection&quot;)/section[@class=&quot;fluid-section fluid-full-width&quot;]/div[@class=&quot;faq-search-wrapper&quot;]/div[@class=&quot;section-frame faq-category-tab&quot;]/div[@class=&quot;section-content&quot;]/ul[@class=&quot;labelsUL&quot;]/li[@class=&quot;labelList&quot;]/a[@class=&quot;label__link&quot;]/div[@class=&quot;label__image&quot;]/img[1]</value>
+      <webElementGuid>fd66c157-dcf4-4be4-9b02-21ce54f69c70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='collapsibleSection']/section/div/div[2]/div/ul/li[8]/a/div/img</value>
+      <webElementGuid>2b460322-469b-47ed-a772-bedc42798765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Self Drive']</value>
+      <webElementGuid>590a1da9-0022-4a04-afc0-62a0d585a35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/div/img</value>
+      <webElementGuid>7684dc05-3aa2-48b4-a122-6c23c826d2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.yatra.com/fresco/resources/beetle/images/faq-contact-us/self drive.png' and @alt = 'Self Drive']</value>
+      <webElementGuid>e1397a4d-1f5c-42e2-afda-f760d4bfd0a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

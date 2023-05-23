@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Proceed To Payment</name>
+   <tag></tag>
+   <elementGuidId>21c95ef5-4f4b-428f-ba74-12cc54fdb0e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-red</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[5]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>496770d5-e03b-4fdf-8a9b-6048452d064d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-red</value>
+      <webElementGuid>1d680ff1-4f2a-4eab-859f-0cf00d36461d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Proceed To Payment</value>
+      <webElementGuid>765e6606-4e9d-4176-ba67-29149d54c05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;review-block&quot;]/div[@class=&quot;left-col&quot;]/div[@class=&quot;pay&quot;]/button[@class=&quot;btn-red&quot;]</value>
+      <webElementGuid>b4fdb29f-61b5-43bb-9ebc-474d181ae041</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[5]/button</value>
+      <webElementGuid>9289312b-7a9d-438b-ad76-e3f1cd259fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Traveller Detail'])[1]/following::button[1]</value>
+      <webElementGuid>44f3cc63-4ee2-4536-aba4-d0bac1f94270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Detail'])[1]/following::button[1]</value>
+      <webElementGuid>ec36b445-8edd-4061-bdf6-6f687e882200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fare Detail'])[1]/preceding::button[1]</value>
+      <webElementGuid>b2b4151a-86f2-45e3-b46e-e93adf29de44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distance (3761.0km * ₹10.75/km )'])[1]/preceding::button[1]</value>
+      <webElementGuid>859a8be8-9819-4c07-a447-dede93ae9494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proceed To Payment']/parent::*</value>
+      <webElementGuid>df0a5153-5e1a-4078-9fbf-39b362d0aff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>da41ba36-1960-4b3f-a124-f85abbce83c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Proceed To Payment' or . = ' Proceed To Payment')]</value>
+      <webElementGuid>351cb552-b3b5-4366-825b-4e76157fec7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

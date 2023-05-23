@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Resend OTP</name>
+   <tag></tag>
+   <elementGuidId>0adf3af9-fe18-4740-a997-40cd1f5d5523</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='resend-otp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#resend-otp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b21adb05-03e2-4e88-af05-5540792b51cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>3fb87559-6942-4fe3-9e0c-042ac945893a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-blue text-capitalize text-center</value>
+      <webElementGuid>08e0bc6b-7758-4421-8584-7f0e649d37b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resend-otp</value>
+      <webElementGuid>7b9f0ed2-ac2c-4927-a6ea-bca9f89b7f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resend OTP</value>
+      <webElementGuid>c764ae1b-0a06-40cb-b097-eae9cd32d72c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resend-otp&quot;)</value>
+      <webElementGuid>73db44d6-a081-4751-89e4-27b858e21c7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='resend-otp']</value>
+      <webElementGuid>e2c1059f-daa0-4dda-8917-c03a9a009671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resend-otp-block']/p/a</value>
+      <webElementGuid>83f6eeb4-3978-445b-80d2-a2a33efc03a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Resend OTP')]</value>
+      <webElementGuid>1eac890e-d761-427b-a0c3-32bf9f4501af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify Email ID'])[1]/following::a[1]</value>
+      <webElementGuid>76181e8c-b080-4b32-8215-99a2da63265f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify Mobile Number'])[1]/following::a[1]</value>
+      <webElementGuid>845cd659-50be-49f3-aae1-e449e0f1d9ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend OTP'])[2]/preceding::a[2]</value>
+      <webElementGuid>4b3f3a9e-5e74-485e-8c6d-eb97bf6ceea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Resend OTP']/parent::*</value>
+      <webElementGuid>1166ae2b-fed1-4f38-83da-915990c09789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[9]</value>
+      <webElementGuid>6dd53f30-a196-487c-bef9-7a2df92250c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p/a</value>
+      <webElementGuid>c881cd21-fcb9-4f1a-8e1f-a57187ae6a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and @id = 'resend-otp' and (text() = 'Resend OTP' or . = 'Resend OTP')]</value>
+      <webElementGuid>83cafdcb-bf50-42b5-bd55-7195d8e9214f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

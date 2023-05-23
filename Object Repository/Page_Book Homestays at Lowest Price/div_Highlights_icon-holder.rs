@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Highlights_icon-holder</name>
+   <tag></tag>
+   <elementGuidId>dbda03ab-9259-45ce-9ed7-c4514733c159</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-holder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view-photo']/div[2]/div[3]/div/ul/li/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b5a505f-67e6-42e3-b09b-dbb9d71198ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-holder</value>
+      <webElementGuid>a57cc554-0a93-4662-bc71-161ca5a499f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view-photo&quot;)/div[@class=&quot;gallery-view-right ng-scope&quot;]/div[@class=&quot;full&quot;]/div[@class=&quot;fl hightlight-left mr20 show-gt-850 ng-scope&quot;]/ul[@class=&quot;fl htl-type-list mt-10 htl-hightlight&quot;]/li[@class=&quot;tipsy-holder ng-scope&quot;]/div[@class=&quot;icon-holder&quot;]</value>
+      <webElementGuid>f220c575-d2b7-4fd4-aba1-ae5e165f1412</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view-photo']/div[2]/div[3]/div/ul/li/div</value>
+      <webElementGuid>aee65af2-b199-4f87-b642-07ae6966296d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Highlights'])[1]/following::div[1]</value>
+      <webElementGuid>1ef0c72b-1371-4346-9fe7-d92e0cc7fd94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs.'])[48]/following::div[3]</value>
+      <webElementGuid>70ae952c-6b5a-43f5-8ec3-5f5fd7061fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHECKIN'])[1]/preceding::div[10]</value>
+      <webElementGuid>06d7d598-fcef-4d5c-b00f-7ede805ddbc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHECKOUT'])[1]/preceding::div[12]</value>
+      <webElementGuid>90562878-d65d-4961-a7e2-da5dc4071fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li/div</value>
+      <webElementGuid>b310b82a-005d-4c99-80b8-014d5c5f356d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

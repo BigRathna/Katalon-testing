@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Description of goods_ng-untouched _cca5e3</name>
+   <tag></tag>
+   <elementGuidId>fee9d2bf-8eeb-415f-a3e6-fc57de11c77c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>56a2205b-b247-4843-9ba9-8457c741237c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c50caf7e-b7b4-4420-9182-00e13647f2ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Description</value>
+      <webElementGuid>4b03fdbb-5b51-462a-af66-970574bd6a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>5de1f27d-3051-4439-a904-6039b197c354</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/div[@class=&quot;app-container full-width&quot;]/div[@class=&quot;main-content&quot;]/app-landing[1]/div[@class=&quot;landing&quot;]/div[@class=&quot;content&quot;]/div[1]/core-page-divs[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex-1-3 landing-main ng-star-inserted&quot;]/div[@class=&quot;landing-left-cont ng-star-inserted&quot;]/div[@class=&quot;flex-row page-div widgets ng-star-inserted&quot;]/div[@class=&quot;widget ng-star-inserted&quot;]/div[1]/div[@class=&quot;widget-body&quot;]/landing-widgets-selector[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/div[@class=&quot;sections ng-star-inserted&quot;]/landing-quote[1]/div[@class=&quot;flex-row centered&quot;]/div[@class=&quot;middle rfqDiv&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator inline fixMarginTop quote-request-form&quot;]/dff-guest-inquery[1]/div[@class=&quot;ng-star-inserted&quot;]/div[3]/div[@class=&quot;oa-textarea&quot;]/textarea[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>29314630-4fe2-4922-8988-ed9ca538c498</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@type='text']</value>
+      <webElementGuid>1c6a0b1a-f9ac-4826-89c0-99d107df723a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>2e982112-7b2b-43ae-9d24-ef282c096c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@type = 'text' and @placeholder = 'Description']</value>
+      <webElementGuid>0e37a497-16ff-4555-9b8f-976b68bc7f7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

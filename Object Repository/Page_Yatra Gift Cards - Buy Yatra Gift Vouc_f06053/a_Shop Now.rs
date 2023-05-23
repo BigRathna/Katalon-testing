@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shop Now</name>
+   <tag></tag>
+   <elementGuidId>fccc575e-74b4-4e19-b38b-7251814f8e80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.shop_now</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='collapsibleSection']/section[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>136ac889-4830-49c8-bd44-e25099fff178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shop_now</value>
+      <webElementGuid>95597ba7-2366-437a-ac0d-2f8e72ee5b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://yatra.woohoo.in/en-in/e-gift-cards/yatra-e-gift-card-processing</value>
+      <webElementGuid>b52f7cf1-4b86-448e-84d2-79ff3fc202ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>a8df9715-016f-4b5d-b54f-cbc44ade4c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Shop Now </value>
+      <webElementGuid>2a26a520-dc30-467e-baf9-8a79663a4117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapsibleSection&quot;)/section[@class=&quot;fluid-section fluid-full-width&quot;]/div[@class=&quot;link-wrapper&quot;]/div[@class=&quot;dflex fcontainer media-cont&quot;]/div[@class=&quot;pos&quot;]/a[@class=&quot;shop_now&quot;]</value>
+      <webElementGuid>31a49b27-39c6-466d-8348-2ac1abd878e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='collapsibleSection']/section[2]/div/div/div/a</value>
+      <webElementGuid>84503348-1971-4afd-86d1-bd91c3f5d21f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shop Now')]</value>
+      <webElementGuid>0ca18fd7-4ae3-4c5b-8490-172549062c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='loved'])[1]/following::a[1]</value>
+      <webElementGuid>359d8d72-5619-4e6f-9e0c-cca78ff5ac71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yatra Gift Cards'])[1]/following::a[1]</value>
+      <webElementGuid>6076a8cb-5c21-4f5e-912d-630341b61d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Easy to Use'])[1]/preceding::a[1]</value>
+      <webElementGuid>d8575bb0-0a82-436f-a555-24c92e324acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flexibility'])[1]/preceding::a[1]</value>
+      <webElementGuid>7eb7269a-fce6-4b0c-9740-f3362b4db8b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shop Now']/parent::*</value>
+      <webElementGuid>0031abe3-b289-48b9-a6f3-3826e8df0b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://yatra.woohoo.in/en-in/e-gift-cards/yatra-e-gift-card-processing')]</value>
+      <webElementGuid>1513c06b-e356-48f7-a604-e74949373669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/a</value>
+      <webElementGuid>8fb8e206-e0ad-444c-a761-4a6ed4416c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://yatra.woohoo.in/en-in/e-gift-cards/yatra-e-gift-card-processing' and (text() = ' Shop Now ' or . = ' Shop Now ')]</value>
+      <webElementGuid>609fb3b6-b178-4989-8dee-55c04a47fea8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

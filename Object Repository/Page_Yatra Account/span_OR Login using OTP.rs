@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OR Login using OTP</name>
+   <tag></tag>
+   <elementGuidId>c5f462f3-3227-460d-bba5-26d02be0c732</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='login-using-otp']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-blue</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>669dae8c-79ce-47e4-bcad-a14d30d16e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-blue</value>
+      <webElementGuid>13b740a5-970b-4897-b9fa-7104d10b8827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OR Login using OTP</value>
+      <webElementGuid>eb69f502-0fcb-4c22-b9a0-7441613a6a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-using-otp&quot;)/span[@class=&quot;text-blue&quot;]</value>
+      <webElementGuid>bae452e5-8aa3-4e19-94bc-b96baaa30b6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='login-using-otp']/span</value>
+      <webElementGuid>07bce56d-1578-4334-ad9a-5453059940b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offers'])[2]/following::span[4]</value>
+      <webElementGuid>9f3c66e0-5643-47d1-a16c-b7c7622feda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete Holidays Booking'])[1]/following::span[4]</value>
+      <webElementGuid>f152edef-7ba8-4cfe-95f2-57ef34560dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::span[1]</value>
+      <webElementGuid>3c56de6c-e7ca-4d43-8631-53634478ee9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::span[1]</value>
+      <webElementGuid>486112cb-1051-4434-9c08-ea05ede4b608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OR Login using OTP']/parent::*</value>
+      <webElementGuid>2c7342fa-bd85-4af7-b65b-c5f7df33c7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a/span</value>
+      <webElementGuid>3ede18f9-a4cf-44d0-a5dc-6bc5c86362c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OR Login using OTP' or . = 'OR Login using OTP')]</value>
+      <webElementGuid>b0570e57-4c25-405c-95c2-dd1a5f510230</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email</name>
+   <tag></tag>
+   <elementGuidId>1f6c601c-551a-4415-935c-208383acacf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.label-tab > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navSupport']/div/div/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6de3852b-580a-49b0-a824-7628c3e5b9a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>b783d0a6-cda4-4520-8dfe-9f58f704686b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navSupport&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;form-field supportb2c&quot;]/ul[@class=&quot;form-query-head&quot;]/li[@class=&quot;label-tab&quot;]/span[1]</value>
+      <webElementGuid>a6620ce5-2510-418c-9c1b-c597917aeceb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navSupport']/div/div/ul/li/span</value>
+      <webElementGuid>de770171-d02d-4e37-a0c5-575f2117693f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You Could Also'])[1]/following::span[1]</value>
+      <webElementGuid>999a8d52-99b2-4d21-af45-4ce5cdd44c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='When will I get my security deposit credited back in my account?'])[1]/following::span[1]</value>
+      <webElementGuid>9c914a7a-895b-49ef-a8c6-4d727993e78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[3]/preceding::span[1]</value>
+      <webElementGuid>15d9273c-ffec-4dad-b181-99e4a049a2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Support'])[1]/preceding::span[2]</value>
+      <webElementGuid>c075d5a4-abcd-471f-b70e-331f034e9a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email']/parent::*</value>
+      <webElementGuid>0d2d847a-e854-4da7-8d27-a71030a0f1d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/ul/li/span</value>
+      <webElementGuid>b1d79b3a-a00f-454e-9657-5fca1974c88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Email' or . = 'Email')]</value>
+      <webElementGuid>dd95b60f-8fcc-44df-be53-14abf95233d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

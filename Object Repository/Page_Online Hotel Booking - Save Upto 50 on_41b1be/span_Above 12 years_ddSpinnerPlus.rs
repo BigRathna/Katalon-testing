@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Above 12 years_ddSpinnerPlus</name>
+   <tag></tag>
+   <elementGuidId>6331ecc0-3666-4262-b594-e2fe2a08d370</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ddSpinnerPlus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BE_Hotel_pax_box']/div/div[2]/div[2]/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e483765d-cea4-4e24-913b-ccaebee8631b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ddSpinnerPlus</value>
+      <webElementGuid>d2416b2e-70f3-428c-b3b5-6b493b62c46b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BE_Hotel_pax_box&quot;)/div[@class=&quot;iePasenger clearfix&quot;]/div[@class=&quot;dflex pax-vol&quot;]/div[@class=&quot;pax-limit clearfix w100 col-x-fluid fl&quot;]/div[@class=&quot;dd ddcommon borderRadius ddSpinnerMain&quot;]/div[@class=&quot;ddTitle borderRadiusTp&quot;]/span[@class=&quot;ddSpinnerPlus&quot;]</value>
+      <webElementGuid>dde71d80-b3e6-428d-b20d-98e12fad77ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BE_Hotel_pax_box']/div/div[2]/div[2]/div/div/span[2]</value>
+      <webElementGuid>8af54d7b-945c-4738-b8b0-0770419502a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>6efa2bf4-b20e-4185-af1b-a87cf3ec8694</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

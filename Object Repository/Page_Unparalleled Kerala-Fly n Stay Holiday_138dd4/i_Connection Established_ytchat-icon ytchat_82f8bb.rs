@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Connection Established_ytchat-icon ytchat_82f8bb</name>
+   <tag></tag>
+   <elementGuidId>c756b008-407d-40aa-b72d-0fe97e8641bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.ytchat-icon.ytchat-icon-chat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ytchat-conversations']/div[3]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b1f1dc04-b23a-44ef-b24e-461e69639bc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytchat-icon ytchat-icon-chat</value>
+      <webElementGuid>9faaee6b-de29-405d-b2d5-8250d044cf73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ytchat-conversations&quot;)/div[@class=&quot;ytchat-customer-support ng-scope&quot;]/button[1]/i[@class=&quot;ytchat-icon ytchat-icon-chat&quot;]</value>
+      <webElementGuid>38332144-8faf-4627-bd00-e793a625eb5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ytchat-conversations']/div[3]/button/i</value>
+      <webElementGuid>c61f3863-640e-493d-abb4-c43c8691101f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button/i</value>
+      <webElementGuid>daab2561-c05a-4666-83a3-c064fc63d1b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Activities</name>
+   <tag></tag>
+   <elementGuidId>8e529af8-0581-49f9-ab55-cacf68937086</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#booking_engine_activities > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='booking_engine_activities']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d0390861-6d85-4818-945e-e7eddb25399d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Activities</value>
+      <webElementGuid>a7c25a33-6edc-404b-b2bd-6aacacd1618a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking_engine_activities&quot;)/span[1]</value>
+      <webElementGuid>7a395061-a5bf-4d95-bc09-baf7d70d2320</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='booking_engine_activities']/span</value>
+      <webElementGuid>924e73aa-b960-4c8d-aba0-33d76ab8f86b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW'])[8]/following::span[2]</value>
+      <webElementGuid>f26d920d-ab76-4320-a5ee-5eb329323e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adventures'])[1]/following::span[2]</value>
+      <webElementGuid>cc4620e5-6574-4fe0-a0d8-3b4ba7667911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DO MORE'])[1]/preceding::span[1]</value>
+      <webElementGuid>15d57b71-deaa-4d5d-aef7-0d0ece7d8d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monuments'])[1]/preceding::span[2]</value>
+      <webElementGuid>d1614fb1-c9e2-4482-895a-0adf45058135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/span</value>
+      <webElementGuid>c1c41afa-3e50-4f3c-9713-cc8356032e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Activities' or . = 'Activities')]</value>
+      <webElementGuid>64d40a3c-1c06-41ce-9deb-1644f1eb3375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

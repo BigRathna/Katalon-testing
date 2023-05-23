@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_verify your mobile number  An OTP (_669512</name>
+   <tag></tag>
+   <elementGuidId>1ec0beac-6727-4bc0-9865-f104906234e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.otp-section-overlay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='THANK YOU FOR YOUR QUERY.'])[1]/following::section[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>bf097d76-e3f9-4be7-921b-5c5e51c5b6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>otp-section-overlay</value>
+      <webElementGuid>46061ca7-bc98-4e17-92d8-6049b7cb5b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>showOtpModal</value>
+      <webElementGuid>775ea905-0cdc-4f0a-8ca0-651c9474c2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    verify your mobile number  An OTP (valid for next 15 mins.) has been sent to you on your Mobile number  +91 9874563210       Enter Mobile OTP Enter Mobile OTP   The OTP is incorrect or has expired. Try again or generate a new OTP using the link below.   Submit  Resend OTP ( seconds)    </value>
+      <webElementGuid>55dbe9a0-dc3f-474d-90b1-5c58b360523b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ng-scope&quot;]/body[@class=&quot;hldy-content-display ng-scope hideOverflow&quot;]/div[@class=&quot;ng-scope&quot;]/section[@class=&quot;mob-popup fadeIn&quot;]/div[1]/section[@class=&quot;otp-section-overlay&quot;]</value>
+      <webElementGuid>20acba1a-93e8-47b6-b4c7-2063e395b0a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THANK YOU FOR YOUR QUERY.'])[1]/following::section[2]</value>
+      <webElementGuid>f42cf961-c5a1-4ecc-a61d-d3f6a6a224ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spam'])[1]/following::section[2]</value>
+      <webElementGuid>ead55987-9db1-4800-a1b9-bff8ac81aacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/section</value>
+      <webElementGuid>af55aeb0-28e9-490d-8651-7a872293a445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = '    verify your mobile number  An OTP (valid for next 15 mins.) has been sent to you on your Mobile number  +91 9874563210       Enter Mobile OTP Enter Mobile OTP   The OTP is incorrect or has expired. Try again or generate a new OTP using the link below.   Submit  Resend OTP ( seconds)    ' or . = '    verify your mobile number  An OTP (valid for next 15 mins.) has been sent to you on your Mobile number  +91 9874563210       Enter Mobile OTP Enter Mobile OTP   The OTP is incorrect or has expired. Try again or generate a new OTP using the link below.   Submit  Resend OTP ( seconds)    ')]</value>
+      <webElementGuid>65ee4d63-61e9-439d-aeaa-c2b3b2791072</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

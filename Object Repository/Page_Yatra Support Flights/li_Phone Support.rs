@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Phone Support</name>
+   <tag></tag>
+   <elementGuidId>572eb23d-b490-41de-9f4c-8ec3d5edafae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navSupport']/div/div/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>921b3eb2-7bb1-4534-9ae3-bd0cc0fb21a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tab</name>
+      <type>Main</type>
+      <value>phone</value>
+      <webElementGuid>40ee737f-96a2-4e29-a875-559e3c9812f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-tab</value>
+      <webElementGuid>326a105c-4840-412d-b45e-95b3622ea422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Phone Support </value>
+      <webElementGuid>97894da0-7356-437c-964a-c8b723df800d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navSupport&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;form-field supportb2c&quot;]/ul[@class=&quot;form-query-head&quot;]/li[@class=&quot;label-tab&quot;]</value>
+      <webElementGuid>628025b1-b2e3-43f6-b9fb-b7f632f8e23b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navSupport']/div/div/ul/li[3]</value>
+      <webElementGuid>41dcde74-c30b-476b-9b3d-2953bd15295e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[3]/following::li[1]</value>
+      <webElementGuid>42ef16af-8839-45f7-90dc-9bff0bee1a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::li[2]</value>
+      <webElementGuid>b97691e3-704d-4fcd-a3d9-06b203e4e346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat'])[1]/preceding::li[1]</value>
+      <webElementGuid>139980d3-80df-4ba3-b55c-6f3e179ba609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/ul/li[3]</value>
+      <webElementGuid>fab4782b-0d74-4e8d-a87d-960c435c0b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '  Phone Support ' or . = '  Phone Support ')]</value>
+      <webElementGuid>780b8b5f-318f-4858-a8ec-5063e81c6621</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

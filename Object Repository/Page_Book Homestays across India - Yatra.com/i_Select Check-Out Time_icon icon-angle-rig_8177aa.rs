@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Select Check-Out Time_icon icon-angle-rig_8177aa</name>
+   <tag></tag>
+   <elementGuidId>891a7042-fc45-4201-8637-51ea1ecdd145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.icon-angle-right.arrowpassengerBox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BE_Hotel_pax_info']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0d3cc455-ce4c-436f-9e37-8afb03317af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-angle-right arrowpassengerBox</value>
+      <webElementGuid>21816e6a-a5da-45f4-9a98-e7cfbb222bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BE_Hotel_pax_info&quot;)/i[@class=&quot;icon icon-angle-right arrowpassengerBox&quot;]</value>
+      <webElementGuid>66f698b8-dec4-4b86-867d-dc919a23af08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BE_Hotel_pax_info']/i</value>
+      <webElementGuid>98eeba7f-4c84-4550-b8b5-72ea80adc80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div[3]/div/i</value>
+      <webElementGuid>20b3b50e-5ecb-4f8d-be74-6deb774528a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

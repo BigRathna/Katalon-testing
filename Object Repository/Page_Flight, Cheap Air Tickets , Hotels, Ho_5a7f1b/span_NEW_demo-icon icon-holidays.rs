@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_NEW_demo-icon icon-holidays</name>
+   <tag></tag>
+   <elementGuidId>d1443c6b-c1d1-4455-891e-460d258d08d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='booking_engine_holidays']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.demo-icon.icon-holidays</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc76fb74-0130-4f12-b614-7ad9673a921e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>demo-icon icon-holidays</value>
+      <webElementGuid>c58b9b4f-4ca9-4e76-aa1b-b70954142036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking_engine_holidays&quot;)/div[1]/span[@class=&quot;demo-icon icon-holidays&quot;]</value>
+      <webElementGuid>a15489ab-d00e-4701-ac1c-573d7de2be99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='booking_engine_holidays']/div/span</value>
+      <webElementGuid>e7688b43-c15c-4e69-a0db-055311d6cfec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/div/span</value>
+      <webElementGuid>36ad4133-d60f-40e0-8753-abcc01d6091f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

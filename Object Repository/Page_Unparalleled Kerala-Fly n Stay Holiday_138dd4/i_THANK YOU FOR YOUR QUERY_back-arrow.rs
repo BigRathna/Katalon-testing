@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_THANK YOU FOR YOUR QUERY_back-arrow</name>
+   <tag></tag>
+   <elementGuidId>5232ded3-24b2-4bcb-9a19-a0e1b1744914</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.back-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bd267273-939f-4cdc-8ea8-ac5870f28431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>back-arrow</value>
+      <webElementGuid>812d9ffe-9fa4-46c5-9489-08f5aede5f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ng-scope&quot;]/body[@class=&quot;hldy-content-display ng-scope hideOverflow&quot;]/div[@class=&quot;ng-scope&quot;]/section[@class=&quot;mob-popup fadeIn&quot;]/div[1]/section[@class=&quot;otp-section-overlay&quot;]/div[@class=&quot;form-container&quot;]/form[@class=&quot;login-form ng-valid ng-dirty&quot;]/a[@class=&quot;show-back-arrow&quot;]/i[@class=&quot;back-arrow&quot;]</value>
+      <webElementGuid>7febaaf0-b15f-437e-aaaa-823f8783ef57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a/i</value>
+      <webElementGuid>7b4cbaf8-d2ae-430c-be9d-2da03d3f4f68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

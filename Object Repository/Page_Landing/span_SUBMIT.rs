@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SUBMIT</name>
+   <tag></tag>
+   <elementGuidId>28f7119f-01b7-4419-85a6-e307aef4f3dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-raised-button.mat-button-base.mat-primary.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93c25687-d737-44c9-bb2f-84b0216624f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>d52fb17f-6290-44be-b152-e3abf23d1af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SUBMIT</value>
+      <webElementGuid>ede7aeff-9f73-4f10-8516-84d760474a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/div[@class=&quot;app-container full-width&quot;]/div[@class=&quot;main-content&quot;]/app-landing[1]/div[@class=&quot;landing&quot;]/div[@class=&quot;content&quot;]/div[1]/core-page-divs[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex-1-3 landing-main ng-star-inserted&quot;]/div[@class=&quot;landing-left-cont ng-star-inserted&quot;]/div[@class=&quot;flex-row page-div widgets ng-star-inserted&quot;]/div[@class=&quot;widget ng-star-inserted&quot;]/div[1]/div[@class=&quot;widget-body&quot;]/landing-widgets-selector[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/div[@class=&quot;sections ng-star-inserted&quot;]/landing-quote[1]/div[@class=&quot;flex-row centered&quot;]/div[@class=&quot;middle rfqDiv&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator inline fixMarginTop quote-request-form&quot;]/dff-guest-inquery[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;controls-row&quot;]/div[3]/button[@class=&quot;mat-focus-indicator mat-raised-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>395d1340-ca22-4165-8d0c-4abdc7f1d6b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::span[3]</value>
+      <webElementGuid>124bf961-b6c9-4fbd-ad68-f3964926fbab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[5]</value>
+      <webElementGuid>cdc76a50-33e9-4f50-a4f7-03e9dce5e168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Yatra Freight'])[1]/preceding::span[3]</value>
+      <webElementGuid>39fd60fd-e61c-4878-b33f-e7007703a480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instant and Transparent Rates'])[1]/preceding::span[3]</value>
+      <webElementGuid>7bb92396-eeaf-4c09-a171-3e441fc59e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SUBMIT']/parent::*</value>
+      <webElementGuid>f60c339b-a7e9-4aba-85d2-565f01b8255d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>4ea5bc80-6cc9-4f82-916e-a543606eb6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SUBMIT' or . = 'SUBMIT')]</value>
+      <webElementGuid>e46acb5d-f055-4ca5-85c2-6833c93f8391</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

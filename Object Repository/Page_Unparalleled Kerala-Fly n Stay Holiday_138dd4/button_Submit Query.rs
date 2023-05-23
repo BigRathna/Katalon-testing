@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit Query</name>
+   <tag></tag>
+   <elementGuidId>489a188f-dd7e-4504-8f90-5ad16143491a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.hidden-md.btn.black-button.fs-16.hidden-md.pnapop.submitReq_js.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='showleadform({});']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>af66d46e-9fce-41cb-89e3-26480252ddca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-if</name>
+      <type>Main</type>
+      <value>(showSpeakToAnExpert)</value>
+      <webElementGuid>87f04a53-ea67-4bd0-b8a1-765e3fd74aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showleadform({});</value>
+      <webElementGuid>1b68baf4-cd9e-45b5-8436-2aa8848d9dfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-md btn black-button fs-16 hidden-md pnapop submitReq_js ng-scope</value>
+      <webElementGuid>0c105095-0c12-41ae-b586-ce962c7c51eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Query</value>
+      <webElementGuid>83febaaa-89f9-4968-add2-294d93a09688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;my-header&quot;]/div[@class=&quot;topbar row&quot;]/div[@class=&quot;route row&quot;]/div[@class=&quot;offer flL&quot;]/button[@class=&quot;hidden-md btn black-button fs-16 hidden-md pnapop submitReq_js ng-scope&quot;]</value>
+      <webElementGuid>511b0e5e-ba2b-4ecf-acad-23df0f8ed276</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='showleadform({});']</value>
+      <webElementGuid>03d44eac-972a-4bdc-ab43-7a5c0345d7ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-container']/div[2]/div/div/div[2]/button[2]</value>
+      <webElementGuid>58023525-6911-42ca-915f-14cc309001c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Now'])[1]/following::button[1]</value>
+      <webElementGuid>79ce20be-a8df-419f-96b5-29e58eae3729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yatra.com'])[2]/following::button[2]</value>
+      <webElementGuid>84f5e5ce-ef5f-450f-873c-c7142dbb09f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photos'])[1]/preceding::button[1]</value>
+      <webElementGuid>3fb0c11e-31ab-46da-9cbc-4965f3b8df0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotels &amp; Transport'])[1]/preceding::button[1]</value>
+      <webElementGuid>0dbbd50d-de7f-4567-ace6-a54ee8f3679e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit Query']/parent::*</value>
+      <webElementGuid>fc44d899-cbfc-4697-9adf-26e0dcdeb391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>8447a733-fa3d-4f7c-86b3-5488a7fe34fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Submit Query' or . = 'Submit Query')]</value>
+      <webElementGuid>8f8af781-9674-41df-b547-af13dfa54a69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

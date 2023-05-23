@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pay with UPI_upi-5 upiSteps</name>
+   <tag></tag>
+   <elementGuidId>3d5e231a-b462-4aeb-80cb-64cc9ffbfa32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.upi-5.upiSteps</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab_upi']/div/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9afcd2f-76ec-44da-af50-bd476c707ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upi-5 upiSteps</value>
+      <webElementGuid>2f56d22d-d3af-427a-a71b-397cf3b9723d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab_upi&quot;)/div[@class=&quot;upiRow&quot;]/div[@class=&quot;upiColumn&quot;]/div[@class=&quot;upi-5 upiSteps&quot;]</value>
+      <webElementGuid>9687a28b-2365-4b31-a429-c0743d04d958</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab_upi']/div/div[5]/div</value>
+      <webElementGuid>19ae5df1-1564-4324-97aa-b8ea8ccf42f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay with UPI'])[1]/following::div[11]</value>
+      <webElementGuid>d0e96688-49f3-4518-a529-b8a4eefbca13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay with Cash Card'])[1]/following::div[13]</value>
+      <webElementGuid>5c19642a-a2fa-4810-9564-b7b21734e0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Payment Address'])[1]/preceding::div[1]</value>
+      <webElementGuid>c48ad649-8591-43c0-afd9-ee66bcd7c0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't have VPA? Scan QR with your UPI app')])[1]/preceding::div[3]</value>
+      <webElementGuid>cb41997a-4efa-422f-b66b-e11c930ec4ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div/div[5]/div</value>
+      <webElementGuid>ae3e900d-7d35-479e-9818-0959c67d74aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Real-time Container Tracking</name>
+   <tag></tag>
+   <elementGuidId>b48909e7-370f-483e-82b5-83a152502006</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='aboutYt']/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>de491c04-34ab-4f89-9ace-67273393e0be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Real-time Container Tracking </value>
+      <webElementGuid>75bda831-38de-4753-b02e-b8d9e5f801d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aboutYt&quot;)/ul[@class=&quot;about-box&quot;]/li[2]</value>
+      <webElementGuid>862de1c7-59d9-4c80-8afc-d5e5dae23651</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aboutYt']/ul/li[2]</value>
+      <webElementGuid>818462c9-359d-4a63-89b9-95273b7eb257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instant and Transparent Rates'])[1]/following::li[1]</value>
+      <webElementGuid>c08e73a8-d448-4fe7-8c1c-2e7df146a408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Yatra Freight'])[1]/following::li[2]</value>
+      <webElementGuid>b11313fe-bd4e-4626-bad9-f4a3a6e842e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Documentation'])[1]/preceding::li[1]</value>
+      <webElementGuid>d6e5059f-ce3e-4734-a36e-9e8cf8a54274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/ul/li[2]</value>
+      <webElementGuid>4b481b34-cdc8-4671-b6fa-f0b2541211fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '  Real-time Container Tracking ' or . = '  Real-time Container Tracking ')]</value>
+      <webElementGuid>3b77050a-671f-4e16-8e40-44ef5caa005b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

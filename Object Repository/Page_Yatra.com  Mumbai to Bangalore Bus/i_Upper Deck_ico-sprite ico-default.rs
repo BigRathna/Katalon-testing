@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Upper Deck_ico-sprite ico-default</name>
+   <tag></tag>
+   <elementGuidId>dc9331f2-1dab-42c9-9251-60c14e5c05fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-lower']/div/div/div[2]/ul[4]/li/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>444f95bf-b813-455e-82c0-dcd44dba78c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ico-sprite ico-default</value>
+      <webElementGuid>b1e2434b-e096-4e41-b229-6f16a65a4f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-lower&quot;)/div[@class=&quot;v-card v-card--flat v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;seat-body&quot;]/ul[@class=&quot;seat-map&quot;]/li[@class=&quot;sleeper Sleeper&quot;]/i[@class=&quot;ico-sprite ico-default&quot;]</value>
+      <webElementGuid>90493e98-8dce-4f78-90cc-1a0d1dda7645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-lower']/div/div/div[2]/ul[4]/li/i</value>
+      <webElementGuid>979f46a2-aff9-4477-8c0d-fc430ff97de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[4]/li/i</value>
+      <webElementGuid>13acfb00-c97e-4ca5-beec-62a31662a882</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

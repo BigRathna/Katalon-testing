@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Boarding Points  Tale Gaon Ta_31c61e</name>
+   <tag></tag>
+   <elementGuidId>c8a43233-9782-492b-924f-31b92fd5211e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='city']/div/div/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4978eb64-2b84-4267-82c5-49e1bd80bbdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Boarding Points  Tale Gaon Tale Gaon Toll Plaza Mumbai Pune Express - 12:30 PMWakad Sagar Hotel - 01:00 PMKatrej Kartej - 01:15 PMHadpsar Hadpsar - 02:00 PM</value>
+      <webElementGuid>ae22802e-270d-4e68-8d41-8fa9ebba313e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;city&quot;)/div[@class=&quot;travel-detail v-card v-card--flat v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;select-group&quot;]/div[@class=&quot;drop-down&quot;]/select[1]</value>
+      <webElementGuid>418d3385-0520-4b52-b975-d22d0bf7f953</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='city']/div/div/div/div/select</value>
+      <webElementGuid>51781c59-1a33-44a2-a93d-16aba42f848d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Boarding Point'])[1]/following::select[1]</value>
+      <webElementGuid>f578aa30-774d-4de5-a335-9f5a70b61a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time:'])[1]/following::select[1]</value>
+      <webElementGuid>6fe9a50e-b516-4ec1-9e2a-b70783468e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Dropping Point'])[1]/preceding::select[1]</value>
+      <webElementGuid>e5baa2d6-7087-4f35-8495-5c7c07b8ae36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Sangareddy)'])[1]/preceding::select[1]</value>
+      <webElementGuid>b5e059ad-4730-4879-90fd-9e4252394b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>bee52881-abbc-4d97-aae2-17cdff29c167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Boarding Points  Tale Gaon Tale Gaon Toll Plaza Mumbai Pune Express - 12:30 PMWakad Sagar Hotel - 01:00 PMKatrej Kartej - 01:15 PMHadpsar Hadpsar - 02:00 PM' or . = 'Select Boarding Points  Tale Gaon Tale Gaon Toll Plaza Mumbai Pune Express - 12:30 PMWakad Sagar Hotel - 01:00 PMKatrej Kartej - 01:15 PMHadpsar Hadpsar - 02:00 PM')]</value>
+      <webElementGuid>1e47471e-5dc4-4de4-b7f6-4c41cdcda29d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

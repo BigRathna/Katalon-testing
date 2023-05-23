@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Our Family</name>
+   <tag></tag>
+   <elementGuidId>84253b3b-712a-402e-80d3-28a996a64513</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.lable_ourFamily</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='footer_content']/div/div/div/div[3]/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>26ec1931-2171-4282-816c-e3a6a18ab57c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lable_ourFamily</value>
+      <webElementGuid>60913657-6746-48b8-93fe-16000d8c1dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Our Family</value>
+      <webElementGuid>66684998-16bb-44f3-bb45-7de266987594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer_content&quot;)/div[@class=&quot;ytContainerFluid ytNormFooter fluid-section yatra-footer&quot;]/div[@class=&quot;ytContainerFull&quot;]/div[@class=&quot;footsec js-footer-new js-footer-slide&quot;]/div[@class=&quot;our-family&quot;]/div[@class=&quot;ytContainerFull footer-container boxWidth_family&quot;]/ul[1]/li[@class=&quot;lable_ourFamily&quot;]</value>
+      <webElementGuid>c0c8d400-b99b-4a5a-9658-ff5ab9c06e2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='footer_content']/div/div/div/div[3]/div/ul/li</value>
+      <webElementGuid>7d2fcb59-4ca3-4015-8e8a-f3c5e2fc018b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visa Information'])[1]/following::li[1]</value>
+      <webElementGuid>e6f6c78d-455d-48ab-91b9-283c11459dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Cards'])[1]/following::li[2]</value>
+      <webElementGuid>32d488af-4682-4de8-801a-427e2b74c07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security &amp; Payments'])[1]/preceding::li[5]</value>
+      <webElementGuid>71bbf8dd-b13b-4713-a681-b814ab0d8a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep In Touch'])[1]/preceding::li[10]</value>
+      <webElementGuid>33a98d84-732d-4260-b1aa-3585031e9a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Our Family']/parent::*</value>
+      <webElementGuid>4ac950bb-c94a-47e1-8d84-84e66534131c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[3]/div/ul/li</value>
+      <webElementGuid>e2104c7f-4e1b-4938-abc1-5de9427ffdec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Our Family' or . = 'Our Family')]</value>
+      <webElementGuid>f02689f1-3454-40a7-be3e-fd7d63561412</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

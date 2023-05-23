@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Upper Deck_ico-sprite ico-default_1</name>
+   <tag></tag>
+   <elementGuidId>4035a62f-fb6c-4782-ad45-79af0ba329c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sleeper.active > i.ico-sprite.ico-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-lower']/div/div/div[2]/ul[4]/li/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8bfff7f8-970f-475c-8375-5b9fd1d13ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ico-sprite ico-default</value>
+      <webElementGuid>e558dc79-7dcf-4032-87d7-305d2e114602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-lower&quot;)/div[@class=&quot;v-card v-card--flat v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;seat-body&quot;]/ul[@class=&quot;seat-map&quot;]/li[@class=&quot;sleeper active&quot;]/i[@class=&quot;ico-sprite ico-default&quot;]</value>
+      <webElementGuid>6462a905-29a5-480f-acda-6a98331ab8f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-lower']/div/div/div[2]/ul[4]/li/i</value>
+      <webElementGuid>1e38ebb2-45a5-4adf-8bd1-fcc28f8d9ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[4]/li/i</value>
+      <webElementGuid>eaa5fe11-cae9-45a5-a6c1-7dfdb2e8fe00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Our Family_sprite-footer ico-tgFooter_family</name>
+   <tag></tag>
+   <elementGuidId>95f08198-a8df-41d3-a1af-748478aa1291</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.sprite-footer.ico-tgFooter_family</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='themeBeetle']/div[3]/div[2]/div/div/div/ul/li[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>244df823-786d-42cc-aa57-18e42dd0103f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sprite-footer ico-tgFooter_family</value>
+      <webElementGuid>86a07b28-a14b-49e6-84e8-1d6893a340de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;themeBeetle&quot;)/div[@class=&quot;fluid-section yatra-footer&quot;]/div[@class=&quot;footer-beetle-new dom&quot;]/div[@class=&quot;ytContainerFluid ytNormFooter fluid-section yatra-footer&quot;]/div[@class=&quot;our-family&quot;]/div[@class=&quot;ytContainerFull footer-container boxWidth_family&quot;]/ul[1]/li[2]/a[@class=&quot;borderNone&quot;]/i[@class=&quot;sprite-footer ico-tgFooter_family&quot;]</value>
+      <webElementGuid>e5ac3b81-4a6e-421e-8541-2d0ea03c84ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='themeBeetle']/div[3]/div[2]/div/div/div/ul/li[2]/a/i</value>
+      <webElementGuid>a03efa80-35b4-48da-988f-d77c69de0671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[2]/a/i</value>
+      <webElementGuid>93df6488-6614-4e63-b49e-bb7d01b595e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

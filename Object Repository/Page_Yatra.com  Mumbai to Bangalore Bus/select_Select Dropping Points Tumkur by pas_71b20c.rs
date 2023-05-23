@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Dropping Points Tumkur by pas_71b20c</name>
+   <tag></tag>
+   <elementGuidId>3609355e-bbc4-4494-8a52-91eec7c26fc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='city']/div/div/div[2]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4ad741b3-d809-4e5f-9439-777af25137d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Dropping Points Tumkur by pass - 12:30 AMNelamangala toll - 01:10 AMParle ji - 01:30 AMYeshwantpur - 01:50 AMAnand rao circle - 02:00 AMKalasipalayam - 02:15 AM</value>
+      <webElementGuid>d4a0c7a1-aa5b-4134-b5df-7b01560dd950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;city&quot;)/div[@class=&quot;travel-detail v-card v-card--flat v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;select-group&quot;]/div[@class=&quot;drop-down&quot;]/select[1]</value>
+      <webElementGuid>b849d2f5-b31f-447a-8789-b590a36d05ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='city']/div/div/div[2]/div/select</value>
+      <webElementGuid>cb90718b-d58c-4bd4-b687-2d35f6bd59a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Dropping Point'])[1]/following::select[1]</value>
+      <webElementGuid>90ae9e0f-c0f0-45a9-be46-5f4655f506f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Boarding Point'])[1]/following::select[2]</value>
+      <webElementGuid>ad4c49d1-5e66-4f8e-9c5b-064e1001bcc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[88]/preceding::select[1]</value>
+      <webElementGuid>7dbcdc5a-1303-464f-bdcd-9d3c3f904d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>65c90b7c-c643-4a83-ad8e-387665d7bf7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Dropping Points Tumkur by pass - 12:30 AMNelamangala toll - 01:10 AMParle ji - 01:30 AMYeshwantpur - 01:50 AMAnand rao circle - 02:00 AMKalasipalayam - 02:15 AM' or . = 'Select Dropping Points Tumkur by pass - 12:30 AMNelamangala toll - 01:10 AMParle ji - 01:30 AMYeshwantpur - 01:50 AMAnand rao circle - 02:00 AMKalasipalayam - 02:15 AM')]</value>
+      <webElementGuid>5eaa59c4-15c4-4f03-9f09-e5e0b89804a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

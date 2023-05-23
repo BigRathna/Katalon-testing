@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue</name>
+   <tag></tag>
+   <elementGuidId>553b18e5-29cb-4452-b5af-45aeabc6746f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.primary.rounded.contn-btn.new-btn.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='traveller-dom']/form/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dd6f5737-4b90-4bcf-af61-9e48008221bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button primary rounded contn-btn new-btn ng-binding</value>
+      <webElementGuid>7ef41405-2276-43dd-8b76-7851de2da53b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>!SmeApprovalList &amp;&amp; (checkTenant == 'SmedoB2c' || checkTenant == 'SmeioB2c')</value>
+      <webElementGuid>69b2d899-d6c9-4b44-a747-930bb4a7832b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>continueToNextPage(travellerForm.$valid, travellerForm);</value>
+      <webElementGuid>86a4cfc1-97bf-4ca7-a497-ff6217ffec25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>promoWait</value>
+      <webElementGuid>83c60a0c-522b-4d2f-8a92-8a247baecdae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue </value>
+      <webElementGuid>ce5a2a69-52f7-45e8-b5ed-a98f566fc04a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;traveller-dom&quot;)/form[@class=&quot;ng-pristine ng-invalid ng-invalid-required ng-valid-pattern ng-valid-minlength ng-valid-maxlength&quot;]/div[@class=&quot;center-block text-center mt-1 sticky-sm-bottom  hide-under-overlay&quot;]/button[@class=&quot;button primary rounded contn-btn new-btn ng-binding&quot;]</value>
+      <webElementGuid>e18c6491-1779-430a-ab73-60a91049977f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b805dbb3-a2cd-40db-aa19-5bf8a5d46b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button primary rounded contn-btn new-btn ng-binding</value>
+      <webElementGuid>636cf318-24f1-4d55-aa7d-8f8b88c917ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>!SmeApprovalList &amp;&amp; (checkTenant == 'SmedoB2c' || checkTenant == 'SmeioB2c')</value>
+      <webElementGuid>fe4e51e6-52a5-44d4-abdc-6d873303c750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>continueToNextPage(travellerForm.$valid, travellerForm);</value>
+      <webElementGuid>2a91036a-d139-4a04-9de4-da606c46a3f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>promoWait</value>
+      <webElementGuid>30178b3f-1ff5-4b6b-95ff-7f1446192f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue </value>
+      <webElementGuid>0894bcdd-17b3-49bf-8304-dbe352d90e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;traveller-dom&quot;)/form[@class=&quot;ng-pristine ng-invalid ng-invalid-required ng-valid-pattern ng-valid-minlength ng-valid-maxlength&quot;]/div[@class=&quot;center-block text-center mt-1 sticky-sm-bottom  hide-under-overlay&quot;]/button[@class=&quot;button primary rounded contn-btn new-btn ng-binding&quot;]</value>
+      <webElementGuid>febb91e2-77c2-4d2a-8655-2adad0ed7fc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='traveller-dom']/form/div[4]/button</value>
+      <webElementGuid>66993304-db31-4993-9444-c269dd92162b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason for Travel'])[1]/following::button[1]</value>
+      <webElementGuid>22204dfe-5b68-4191-91e8-288c2176b60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Details'])[2]/following::button[1]</value>
+      <webElementGuid>8cb5612d-d04b-40fc-9e2d-db3177c99a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceed for Approval'])[1]/preceding::button[1]</value>
+      <webElementGuid>e50716ad-5d42-4c0a-9645-49a1a60c42a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>637066ff-c5c1-4bc3-b4df-25a4849018d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/form/div[4]/button</value>
+      <webElementGuid>c7631e6e-4605-404d-beef-4a8f606f1115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Continue ' or . = 'Continue ')]</value>
+      <webElementGuid>fbe576bc-794e-4b92-bef7-78083ea49f3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

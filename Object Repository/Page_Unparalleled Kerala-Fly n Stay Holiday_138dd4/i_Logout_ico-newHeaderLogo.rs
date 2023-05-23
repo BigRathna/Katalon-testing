@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Logout_ico-newHeaderLogo</name>
+   <tag></tag>
+   <elementGuidId>a9b245f8-a12f-4bc3-ab5c-3d3f2ae30bc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.logo > i.ico-newHeaderLogo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerSnipe']/div/div/div[3]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4ade6e42-b357-4642-bd78-201939c6466c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ico-newHeaderLogo</value>
+      <webElementGuid>1afc5a4b-b6b2-4d14-b36f-16925c0ae9c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerSnipe&quot;)/div[@class=&quot;yatra-header service-header&quot;]/div[1]/div[@class=&quot;header-container desktop-only&quot;]/div[@class=&quot;header-left-menu ftL&quot;]/a[@class=&quot;logo&quot;]/i[@class=&quot;ico-newHeaderLogo&quot;]</value>
+      <webElementGuid>2f6ebc2d-3f65-40e4-901d-3a75bd599c26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerSnipe']/div/div/div[3]/div/a/i</value>
+      <webElementGuid>61081e99-318f-4b83-b62d-1a5b1cae723b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/i</value>
+      <webElementGuid>909ce84e-3275-4270-bbc5-f22697049c40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

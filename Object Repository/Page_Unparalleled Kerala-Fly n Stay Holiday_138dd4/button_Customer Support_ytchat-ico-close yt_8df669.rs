@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Customer Support_ytchat-ico-close yt_8df669</name>
+   <tag></tag>
+   <elementGuidId>cb986b7f-a052-40ce-8984-2d3cdda6d172</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ytchat-customer-support-header > button.ytchat-ico-close.ytchat-js-close.ytchat-icon.ytchat-icon-minimize</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chat-overlay']/div[2]/div[2]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a0594f51-a50f-4500-92e0-320998492f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>994eade5-269a-41fe-9b3f-971a655ff794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytchat-ico-close ytchat-js-close ytchat-icon ytchat-icon-minimize</value>
+      <webElementGuid>7268f156-9410-4b08-93ad-6917158c21d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>toggleChat()</value>
+      <webElementGuid>2cecfcd5-0895-49f4-ba11-94c8a60b7a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chat-overlay&quot;)/div[@class=&quot;ytchat-chat-box-container&quot;]/div[@class=&quot;ytchat-customer-support-chat&quot;]/div[@class=&quot;ytchat-customer-support-header&quot;]/button[@class=&quot;ytchat-ico-close ytchat-js-close ytchat-icon ytchat-icon-minimize&quot;]</value>
+      <webElementGuid>ed479fa9-bce6-4ec9-bd9c-e9702ec5b537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chat-overlay']/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>c66eb7a9-4795-4abb-828d-abf9f2994648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>60768a4f-3d4e-4344-8b29-816f48de9979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'close']</value>
+      <webElementGuid>94d20a24-5149-4d96-a46b-6bd9f23b57f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

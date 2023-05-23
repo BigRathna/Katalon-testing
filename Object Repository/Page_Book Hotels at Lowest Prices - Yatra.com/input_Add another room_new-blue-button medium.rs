@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Add another room_new-blue-button medium</name>
+   <tag></tag>
+   <elementGuidId>9c0d4eff-d9f7-459a-ac86-efcf4ed8a94b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.new-blue-button.medium</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Check Availability']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0ea2cb27-1a2f-4c84-89b7-77ab0c0bdfbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e7bbe069-70dc-495b-864c-a46778291082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>new-blue-button medium</value>
+      <webElementGuid>d212cd23-95e8-4212-8314-dc05362d4e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Check Availability</value>
+      <webElementGuid>6bb1a44f-8ee0-4be4-889d-5b8465a4afb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>checkAvailability(MSF);</value>
+      <webElementGuid>0bfa5be8-3d7f-4edd-9c06-4e114cc1883e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CHECK&quot;)/ul[@class=&quot;grid-wrapper grid-wrapper-v2 grid-5&quot;]/li[@class=&quot;grid&quot;]/input[@class=&quot;new-blue-button medium&quot;]</value>
+      <webElementGuid>98824323-283b-4234-bb99-623f7ac6fa87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Check Availability']</value>
+      <webElementGuid>f79772bb-e768-466a-b123-1f96db161a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='CHECK']/ul/li[6]/input</value>
+      <webElementGuid>e9a0adff-6ca5-48b2-adc4-4a51da94292c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/input</value>
+      <webElementGuid>7008682f-c319-48cc-844a-74204fe40b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>c60804e4-cd0f-467b-845d-cbb767d5387c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

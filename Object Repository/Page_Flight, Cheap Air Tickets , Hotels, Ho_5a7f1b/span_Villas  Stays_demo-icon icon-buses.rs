@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Villas  Stays_demo-icon icon-buses</name>
+   <tag></tag>
+   <elementGuidId>21dbcb20-56ae-4f04-995c-89c5b3b01895</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.demo-icon.icon-buses</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='booking_engine_buses']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c716748b-1dd2-4300-a799-81fecb8fcf4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>demo-icon icon-buses</value>
+      <webElementGuid>555ddff3-ef7b-4a4f-89b8-b517dd8ec87e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking_engine_buses&quot;)/div[1]/span[@class=&quot;demo-icon icon-buses&quot;]</value>
+      <webElementGuid>46475871-f5a2-4237-aa43-4c6638ce294f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='booking_engine_buses']/div/span</value>
+      <webElementGuid>021bc892-ab12-40cb-9980-456a1dc036d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div/span</value>
+      <webElementGuid>fc88ad36-6abe-4ad6-84aa-58764c94d068</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

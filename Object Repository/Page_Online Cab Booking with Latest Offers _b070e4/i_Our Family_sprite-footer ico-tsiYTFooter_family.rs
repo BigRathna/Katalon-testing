@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Our Family_sprite-footer ico-tsiYTFooter_family</name>
+   <tag></tag>
+   <elementGuidId>b56b3e6f-359e-418d-9e49-df29244ad37e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.sprite-footer.ico-tsiYTFooter_family</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='footer_content']/div/div/div/div[3]/div/ul/li[5]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0e921f2f-dd77-40e5-8107-17ef56f3a563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sprite-footer ico-tsiYTFooter_family</value>
+      <webElementGuid>c45186f3-313c-4bed-b82a-0a18984c6964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer_content&quot;)/div[@class=&quot;ytContainerFluid ytNormFooter fluid-section yatra-footer&quot;]/div[@class=&quot;ytContainerFull&quot;]/div[@class=&quot;footsec js-footer-new js-footer-slide&quot;]/div[@class=&quot;our-family&quot;]/div[@class=&quot;ytContainerFull footer-container boxWidth_family&quot;]/ul[1]/li[5]/a[1]/i[@class=&quot;sprite-footer ico-tsiYTFooter_family&quot;]</value>
+      <webElementGuid>e91384d5-e9b8-47ab-b939-1869a2752e67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='footer_content']/div/div/div/div[3]/div/ul/li[5]/a/i</value>
+      <webElementGuid>f4a2f99c-0ead-4d4e-8f7f-1bfadd975671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/i</value>
+      <webElementGuid>0a535e95-b8ac-4511-b9a9-29809891b0e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

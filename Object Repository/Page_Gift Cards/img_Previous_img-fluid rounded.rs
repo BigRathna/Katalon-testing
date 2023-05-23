@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Previous_img-fluid rounded</name>
+   <tag></tag>
+   <elementGuidId>183a930f-5b53-4525-8ae0-ebb12e757d17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div[2]/div/div[6]/div/div/div/div[2]/div/div/div/div/div/div[3]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3e631fcf-7a48-4d37-811b-3857ccdaba12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://stage.woohoo.in/media/catalog/customoptions/3ATRANYC_thumnail.jpeg</value>
+      <webElementGuid>81cb8184-6f5b-4279-9348-de0a463c95c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid rounded </value>
+      <webElementGuid>2d4aee94-bd24-4f6f-997c-8c62cdd7b987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;App__MainDiv-sc-yyfnye-0 jPHkWF container-fluid mainContainer&quot;]/div[@class=&quot;minHeight&quot;]/div[1]/div[2]/div[@class=&quot;productContainer row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-12 col-sm-10 col-lg-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-md-10 col-12&quot;]/div[@class=&quot;slick-slider themeSlider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[1]/div[@class=&quot;mousePointer imageCarousel&quot;]/img[@class=&quot;img-fluid rounded&quot;]</value>
+      <webElementGuid>b8cc0a35-7070-427b-8762-77b08f4df89a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div[2]/div/div[6]/div/div/div/div[2]/div/div/div/div/div/div[3]/div/div/img</value>
+      <webElementGuid>70c06857-2afe-42e0-8ad0-92136948d967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://stage.woohoo.in/media/catalog/customoptions/3ATRANYC_thumnail.jpeg')]</value>
+      <webElementGuid>1d54a182-23c7-4653-a4c6-ffbceba0e682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/img</value>
+      <webElementGuid>03a8748b-151a-499c-a2b7-8ec0731bfe05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://stage.woohoo.in/media/catalog/customoptions/3ATRANYC_thumnail.jpeg']</value>
+      <webElementGuid>801d3ac5-0df7-420a-873e-66c9f696cc2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

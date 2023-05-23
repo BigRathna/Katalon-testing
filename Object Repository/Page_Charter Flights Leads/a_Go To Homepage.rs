@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Go To Homepage</name>
+   <tag></tag>
+   <elementGuidId>b7f978f0-e2ee-4a65-b3b4-83a85dfce0d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#thankimage > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='thankimage']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b8ecc974-9cd6-4d0b-abf3-85b7c2d2fe22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.yatra.com</value>
+      <webElementGuid>de1899af-ebe7-45d5-9953-4cc358a4ef2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go To Homepage</value>
+      <webElementGuid>c41c47a2-0973-435e-94bf-3a54cf7b64a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;thankimage&quot;)/a[1]</value>
+      <webElementGuid>b6e2e27b-9e58-4683-8aab-92dd98845f9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='thankimage']/a</value>
+      <webElementGuid>fb348e8e-3981-410d-aa16-205ccd26e812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Go To Homepage')]</value>
+      <webElementGuid>7e094372-ab88-4057-bab4-fee4e4a8ad5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your details has been submitted. we will get back to you soon.'])[1]/following::a[1]</value>
+      <webElementGuid>249caec7-012f-4492-b2c9-8571ccffb93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Query (Optional)'])[1]/following::a[2]</value>
+      <webElementGuid>6cc0f4b4-f72b-481a-bb4d-fe2ed1a29211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Go To Homepage']/parent::*</value>
+      <webElementGuid>e99d3e00-882b-441f-a379-e72015bfc261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.yatra.com')])[9]</value>
+      <webElementGuid>e054940c-ed14-45cb-9abe-e03e035ed90e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a</value>
+      <webElementGuid>c3bb24a9-f86b-4cda-af20-9566720c8308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.yatra.com' and (text() = 'Go To Homepage' or . = 'Go To Homepage')]</value>
+      <webElementGuid>3ce4bfdb-a291-4768-a565-5d516d860521</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

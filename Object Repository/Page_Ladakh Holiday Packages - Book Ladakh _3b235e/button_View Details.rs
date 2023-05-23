@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View Details</name>
+   <tag></tag>
+   <elementGuidId>c81f6908-bc26-4794-aa38-7c57466bc83b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.mt15.mb25</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>00484919-7887-43ad-8faa-ec7c7e0a2f69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>694fd951-fdba-42bb-bf00-8b426f068d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mt15 mb25</value>
+      <webElementGuid>596b69c8-1f7c-4980-b4a0-6e2155057504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            View Details
+          </value>
+      <webElementGuid>e3557dd5-b1ae-49c4-9a4a-b9efbd1ebd04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;srpRoot&quot;)/section[@class=&quot;packages-list&quot;]/div[@class=&quot;hd-container sme-container-fluid&quot;]/div[@class=&quot;packages-container&quot;]/div[@class=&quot;package-details&quot;]/div[@class=&quot;package-price-container&quot;]/div[@class=&quot;price-container&quot;]/button[@class=&quot;btn btn-primary mt15 mb25&quot;]</value>
+      <webElementGuid>f3a38449-cd94-40f5-b462-54d774e96f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>facbc4f3-7bc4-4b10-acf4-86c70772d379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e1ccee1-dd38-421c-8859-d9e57af1644c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mt15 mb25</value>
+      <webElementGuid>608daa7c-169a-44d0-ac84-b80854684763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            View Details
+          </value>
+      <webElementGuid>a29a2c69-9fcd-49da-8014-268713043d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;srpRoot&quot;)/section[@class=&quot;packages-list&quot;]/div[@class=&quot;hd-container sme-container-fluid&quot;]/div[@class=&quot;packages-container&quot;]/div[@class=&quot;package-details&quot;]/div[@class=&quot;package-price-container&quot;]/div[@class=&quot;price-container&quot;]/button[@class=&quot;btn btn-primary mt15 mb25&quot;]</value>
+      <webElementGuid>a57b9eb3-5b2a-479b-8ae0-54605d6977a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>fcabf766-9719-4dc6-b24f-9dce2a250d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='srpRoot']/section[2]/div[2]/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>0af1c4f4-7540-4ec8-b129-7399942cebef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rs'])[2]/following::button[1]</value>
+      <webElementGuid>19bd6028-e0d9-4ff9-81f4-ab5188ecfadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rs'])[1]/following::button[1]</value>
+      <webElementGuid>62041855-cd0a-4829-a3e8-6988e5d58211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay &amp; Hold'])[1]/preceding::button[1]</value>
+      <webElementGuid>45a7419b-c39b-4e74-977c-f41112d7cd06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rs'])[3]/preceding::button[1]</value>
+      <webElementGuid>0c768665-3189-4457-aedc-c94953f0643c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Details']/parent::*</value>
+      <webElementGuid>4fdfc695-f2c7-49ff-bbea-b05f357399d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>cc186ac7-2a75-4204-896c-3063a73b8f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+            View Details
+          ' or . = '
+            View Details
+          ')]</value>
+      <webElementGuid>07fcd87d-1712-4c15-ab83-761e5ce7c657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>1a86f815-5926-4de8-9c0b-f8d374f93058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='srpRoot']/section[2]/div[2]/div[3]/div[2]/div[2]/div/button</value>
+      <webElementGuid>1d05b32c-05a5-424c-bbc4-b61874252497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rs'])[10]/following::button[1]</value>
+      <webElementGuid>3270b5c0-bf76-4f77-954c-a9f7e675a03c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rs'])[9]/following::button[1]</value>
+      <webElementGuid>0bd4ef4b-506d-41b8-90c0-fa428e3c3599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay &amp; Hold'])[3]/preceding::button[1]</value>
+      <webElementGuid>08b5bff4-e4a3-4d42-b055-293723bb3dd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rs'])[11]/preceding::button[1]</value>
+      <webElementGuid>a3f80d04-45b1-4528-9d38-dea3601cd4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div/button</value>
+      <webElementGuid>0975d985-dc79-40b5-83dd-ae3803c8577c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_May 2022</name>
+   <tag></tag>
+   <elementGuidId>7a8b3dd9-28f3-4c9d-8b1e-7ddc4667f6ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BE_holiday_destination_details']/div/div/div/div[2]/div/div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8f910034-d288-4efa-9036-93f1dea54dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enabled _msddli_</value>
+      <webElementGuid>cd57b2b6-b929-405a-a821-efa88a335777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>May 2022 </value>
+      <webElementGuid>06341aa3-c6a5-4efb-8457-d820e14dc9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BE_holiday_destination_details&quot;)/div[@class=&quot;oneway-roundtrip&quot;]/div[@class=&quot;select-with-bg holi_passengerBox flexB100&quot;]/div[@class=&quot;dd ddcommon borderRadius holi_passengerBox search-height b-btm&quot;]/div[@class=&quot;ddChild ddchild_ border shadow holi_passengerBox&quot;]/div[@class=&quot;viewport&quot;]/div[@class=&quot;overview&quot;]/ul[1]/li[@class=&quot;enabled _msddli_&quot;]</value>
+      <webElementGuid>af90d9d5-38d9-4fc4-b7a6-9ebac29538c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>22fd8290-17a7-41da-9b1a-4a21178592ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enabled _msddli_</value>
+      <webElementGuid>bf2649d5-bbb8-440a-8d4a-ec0b5e37083b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>May 2022 </value>
+      <webElementGuid>8aab7d8d-6c3d-434a-930d-f5f705c64e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BE_holiday_destination_details&quot;)/div[@class=&quot;oneway-roundtrip&quot;]/div[@class=&quot;select-with-bg holi_passengerBox flexB100&quot;]/div[@class=&quot;dd ddcommon borderRadius holi_passengerBox search-height b-btm&quot;]/div[@class=&quot;ddChild ddchild_ border shadow holi_passengerBox&quot;]/div[@class=&quot;viewport&quot;]/div[@class=&quot;overview&quot;]/ul[1]/li[@class=&quot;enabled _msddli_&quot;]</value>
+      <webElementGuid>2f86f91a-4cc5-4e56-ad6d-f4d50c7c6324</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BE_holiday_destination_details']/div/div/div/div[2]/div/div/ul/li[3]</value>
+      <webElementGuid>27dd8e1a-8f6c-4069-8601-2dfc5673e8c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='April 2022'])[1]/following::li[1]</value>
+      <webElementGuid>24fe0093-af57-46b8-a1d8-faa5c887be35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Month of Travel (Optional)'])[2]/following::li[2]</value>
+      <webElementGuid>34b40195-9e40-496f-a2a9-8ebdbf41e420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2022'])[1]/preceding::li[1]</value>
+      <webElementGuid>0e7b3646-92a5-4432-970f-3e51287c7767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[3]</value>
+      <webElementGuid>65af2dec-7f73-44ba-897f-08dd455fb267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'May 2022 ' or . = 'May 2022 ')]</value>
+      <webElementGuid>ffe0e247-de09-49c5-8259-578bcaad87ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
